@@ -27,10 +27,6 @@
 定制详解：[点击这里](https://ssnhd.com/2022/01/06/rime/)。
 
 ---
-### [👏 出售 GV、ChatGPT、苹果礼品卡 👏](https://ssnhd.com/2023/03/19/store)
-
-[![](https://i.imgur.com/RELjhoN.png)](https://ssnhd.com/2023/03/19/store)
-
 ### 更新日志
 
 #### 2023-04
