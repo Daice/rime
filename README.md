@@ -1,8 +1,5 @@
 ## Rime 鼠须管（Squirrel）朙月拼音、小鹤双拼、自然码双拼配置详解
 
-![](https://i.imgur.com/mMM6Tft.png)
-
-
 - [Rime 鼠须管群](https://t.me/rimeim)
 - 欢迎关注 [Twitter](https://twitter.com/muzhilau)
 
@@ -30,11 +27,14 @@
 定制详解：[点击这里](https://ssnhd.com/2022/01/06/rime/)。
 
 ---
-### [👏 购买 Google Voice 点击这里 👏](https://t.me/GVStore)
-E-mail：<ahezuo@gmail.com>
-[![](https://i.imgur.com/RELjhoN.png)](https://t.me/GVStore)
+### [👏 出售 GV、ChatGPT、苹果礼品卡 👏](https://ssnhd.com/2023/03/19/store)
+
+[![](https://i.imgur.com/RELjhoN.png)](https://ssnhd.com/2023/03/19/store)
 
 ### 更新日志
+
+#### 2023-04
+- 【增加】微信键盘皮肤（浅色和深色）
 
 #### 2023-02
 - 【修复】修复更新至 0.16.2 后无法显示 Emoji（建议替换 opencc 文件夹）
