@@ -12,7 +12,7 @@
       "type": "group",
       "dicts": [{
         "type": "text",
-        "file": "es.txt"
+        "file": "emoji.txt"
       }, {
         "type": "text",
         "file": "others.txt"
